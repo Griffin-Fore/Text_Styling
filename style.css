@@ -1,0 +1,27 @@
+* {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.top_line_of_text {
+    text-align:left;
+    color:white;
+    background-color:black;
+    
+}
+#Cloud {
+    color:#00ffff
+}
+.middle_line_of_text {
+    text-align: center;
+    color:white;
+    background-color: #663399;
+    font-style: italic;
+    font-weight: light;
+}
+
+.bottom_line_of_text {
+    text-align:right;
+    color:black;
+    background-color: #9fc5f8;
+    text-decoration: underline;
+    font-weight:light;
+}
